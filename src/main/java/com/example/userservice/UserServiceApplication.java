@@ -20,7 +20,6 @@ public class UserServiceApplication {
 
     @RequestMapping("/health")
     public ResponseEntity<String> healthCheck() {
-
         return ResponseEntity.ok("User Service is running");
     }
 }
