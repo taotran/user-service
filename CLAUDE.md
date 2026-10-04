@@ -3,7 +3,7 @@
 ## Overview
 
 `user-service` is a Java 17 / Spring Boot 3.1.6 REST service built with Maven.
-It serves static mock user data; there is currently no persistence layer.
+It serves static mock user data; there is currently no persistence layer..
 
 ## Project structure
 
